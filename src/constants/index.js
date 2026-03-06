@@ -179,7 +179,7 @@ const projects = [
   {
     name: "AI Agent Platform",
     description:
-      "AI-powered assistant that can browse websites and complete tasks automatically, helping users save time on repetitive online work such as data collection, form filling, and workflow automation.",
+      "AI-powered assistant that can browse websites and complete tasks automatically, helping users save time on repetitive online work such as data collection, form filling, and workflow automation. Source code is private due to collaboration and confidentiality.",
     tags: [
       {
         name: "python",
@@ -199,12 +199,13 @@ const projects = [
       },
     ],
     image: agent,
-    source_code_link: "https://github.com/xiananou/BrowserAgent",
+    source_code_link: "",
+    repository_note: "Private repository",
   },
   {
     name: "Jobs Dashboard",
     description:
-      "Web-based dashboard that helps developers manage and monitor automated jobs in one place, making it easier to track task status, logs, and performance.",
+      "Web-based dashboard that helps developers manage and monitor automated jobs in one place, making it easier to track task status, logs, and performance. Source code is private due to collaboration and confidentiality.",
     tags: [
       {
         name: "react",
@@ -220,7 +221,8 @@ const projects = [
       },
     ],
     image: dashboard,
-    source_code_link: "https://github.com/xiananou/JobDashBoard",
+    source_code_link: "",
+    repository_note: "Private repository",
   },
   {
     name: "FlowMap",
@@ -250,6 +252,7 @@ const projects = [
     ],
     image: traffic,
     source_code_link: "https://github.com/xiananou/TrafficNow_V1",
+    repository_note: "Public repository",
   },
 ];
 
